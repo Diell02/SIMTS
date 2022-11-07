@@ -14,3 +14,5 @@ The main problem that I still didn't find a solution it's how to functionalize t
 Trying to find a solution to this, and when I achieve it, I can easily make students, and parents only view the grades, teacher place them
 and other functions like the director will add the students and staff, so you can't register by yourself. 
 This is just a short description of the system, feel free to try it.
+
+Based on tutorials of Jason Watmore & Neil Cummings. 
