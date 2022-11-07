@@ -8,7 +8,7 @@ class LoginPage extends React.Component {
     constructor(props) {
         super(props);
 
-        // redirect to home if already logged in
+
         if (authenticationService.currentUserValue) {
             this.props.history.push('/');
         }
@@ -17,10 +17,6 @@ class LoginPage extends React.Component {
     render() {
         return (
             <div>
-                <div className="alert alert-info">
-                    <strong>Normal User</strong> - U: user P: user<br />
-                    <strong>Administrator</strong> - U: admin P: admin
-                </div>
                 <h2>Login</h2>
                 <Formik
                     initialValues={{
