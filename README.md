@@ -1,18 +1,26 @@
-# SIMTS
+# SIMTS - School Management System
 
-SIMTS- School Management System (SIMTS- acronym from Albanian language "Sistemi i Menaxhimit të Shkollës")
+SIMTS (Sistemi i Menaxhimit të Shkollës) is a School Management System project with a focus on providing comprehensive functionality for educational institutions.
 
-Backend 14 Cruds & Frontend 14 Cruds folders contain 14 fully functional cruds that can be part of a SMS. 
+## Features
 
-Backend & Frontend folders contain only 1 crud which is about users and the login form. 
+- **Backend 14 Cruds & Frontend 14 Cruds:** Contains 14 fully functional CRUD operations that can be integrated into a School Management System.
 
-The idea of this project is a SMS that has 5 roles starting with the student, teacher, psychologist, director, and parent.
-The project's not 100% functional but half of the hard work it's done. The starting idea was that this system it's like all the other
-systems just that this one has an added feature, that is a chat between students with psychologists (This feature it's not done still).
-Other features like view grades, add, etc are done and ready to be used. 
-The main problem that I still didn't find a solution it's how to functionalize the roles so I can make functions valid by the role.
-Trying to find a solution to this, and when I achieve it, I can easily make students, and parents only view the grades, teacher place them
-and other functions like the director will add the students and staff, so you can't register by yourself. 
-This is just a short description of the system, feel free to try it.
+- **User Management:** Backend and Frontend folders include a CRUD operation specifically designed for user management and login forms.
 
-Based on tutorials of Jason Watmore & Neil Cummings. 
+## Project Overview
+
+The project aims to create a School Management System with five distinct roles: student, teacher, psychologist, director, and parent. While the project is not 100% complete, significant progress has been made. The system incorporates features such as chat functionality between students and psychologists (work in progress), viewing grades, and adding grades.
+
+### Current Status
+
+- **Work in Progress:** The chat feature is still under development.
+
+- **Role Functionalities:** The main challenge lies in functionalizing roles to ensure that each role has access to relevant functions. Currently exploring solutions to implement role-based functionalities, allowing actions based on user roles.
+
+### Tutorials
+
+Based on tutorials by Jason Watmore and Neil Cummings.
+
+Feel free to explore and try out the system. Your feedback and contributions are welcome!
+
